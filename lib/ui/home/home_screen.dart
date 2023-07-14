@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:pokemon/data/model/pokemon_model.dart';
 import 'package:pokemon/data/network/api_provider.dart';
 import 'package:pokemon/data/network/universal_response.dart';
 import 'package:pokemon/ui/home/widgets/products_container.dart';
